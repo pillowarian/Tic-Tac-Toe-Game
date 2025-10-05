@@ -54,7 +54,6 @@ Tic-Tac-Toe-Game/
 ## 📸 Preview
 
 ![Tic-Tac-Toe Preview](https://github.com/pillowarian/Tic-Tac-Toe-Game/raw/main/preview.png)
-> *(Optional: Add a screenshot named `preview.png` in your repo to show the game interface)*
 
 ---
 
