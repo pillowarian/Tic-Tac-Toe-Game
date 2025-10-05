@@ -29,10 +29,12 @@ boxes.forEach((box)=>{
     box.addEventListener("click",()=> {
       if(turn0){
         box.innerText = "O"
+        box.style.color = "#DD1C1A";
         turn0 = false
       }
       else {
         box.innerText = "X"
+        box.style.color= "#06AED5";
         turn0 = true
       }
       box.disabled = true
@@ -89,3 +91,4 @@ const checkWinner = () =>{
 
 newGameBtn.addEventListener("click",resetGame)
 resetBtn.addEventListener("click",resetGame)
+
